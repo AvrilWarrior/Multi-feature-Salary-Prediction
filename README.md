@@ -3,6 +3,6 @@ This is a Jupyter Notebook that is comprised of a multivariate dataset that pred
 
 ![alt text](SMF1.png)
 
-[alt text](SMF2.png)
+![alt text](SMF2.png)
 
 ![alt text](SMF3.png)
